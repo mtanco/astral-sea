@@ -1,17 +1,27 @@
 main:
-#  - title: "Posts"
-#    url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-  - title: "House Rules"
-    url: /about/
-  - title: "Crew"
-    url: /crew/
-  - title: "Bastion"
+  - title: "Home Base"
     url: /bastion/
   - title: "The Neverbored"
     url: /ship/
-  - title: "History"
+  - title: "Pirate Tales"
     url: /history/
+  - title: "House Rules"
+    url: /about/
+
+docs:
+  - title: Meet the Players
+    children:
+      - title: "🪓 Andujar"
+        url: /players/andujar/
+      - title: "🧜🏻‍Ariel Starbinder"
+        url: /players/ariel/
+      - title: "🎶 Avö"
+        url: /players/avo/
+      - title: "🧙🏻‍Felix"
+        url: /players/felix/
+      - title: "🧟 Noctus"
+        url: /players/noctus/
+      - title: "😾 Shadowpaw"
+        url: /players/shadowpaw/
+      - title: "🌌 Torque"
+        url: /players/torque/

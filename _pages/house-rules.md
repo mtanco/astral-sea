@@ -2,6 +2,7 @@
 permalink: /about/
 title: "House Rules"
 excerpt: "What to expect."
+classes: wide
 ---
 
 ⏰ **When:** We meet Sunday's at 10am in North Seattle and play until 2/3pm
