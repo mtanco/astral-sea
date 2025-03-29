@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "House Rules"
 excerpt: "What to expect."
 ---
 
