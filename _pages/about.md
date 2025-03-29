@@ -1,13 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "About the campaign"
-author_profile: true
 ---
 
+
 **Who:** You, a pirate
-**What:** RPing and attacking baddies (and goodies?)
-**Where:** Northeast Seattle & the Astral Sea
+**What:** RPing and shit
+**Where:** Northeast Seattle and the Astral Sea
 **When:** Sundays from 10am to 2/3pm
 **Why:** Cause it's fun
 
