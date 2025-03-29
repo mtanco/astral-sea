@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About"
 excerpt: "About the campaign"
 author_profile: true
 redirect_from:
