@@ -4,12 +4,13 @@ title: "About"
 ---
 
 
-**Who:** You, a pirate
-**What:** RPing and shit
-**Where:** Northeast Seattle and the Astral Sea
-**When:** Sundays from 10am to 2/3pm
-**Why:** Cause it's fun
+* **Who:** You, a pirate
+* **What:** RPing and shit
+* **Where:** Northeast Seattle and the Astral Sea
+* **When:** Sundays from 10am to 2/3pm
+* **Why:** Cause it's fun
 
+-------
 
 🚗 **Parking:** There is lots of street parking. Also, we are a 20min walk from the lightrail if you wanna public transit here 
 
