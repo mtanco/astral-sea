@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 excerpt: "About the campaign"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 **Who:** You, a pirate
