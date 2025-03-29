@@ -7,7 +7,7 @@ main:
 #    url: /tags/
   - title: "House Rules"
     url: /about/
-  - crew: "Crew"
+  - title: "Crew"
     url: /crew/
   - title: "Bastion"
     url: /bastion/
