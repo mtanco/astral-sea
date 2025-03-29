@@ -16,6 +16,6 @@ excerpt: "What's happening at the Home Base"
 | Felix     | Arcane Study  | - Long Rest: Gains ability to cast Identify for free once in the next 7 days      <br> - Every 7 Days: Generate an Arcane Focus OR a blank book (10gp)                      | Creating:   (unknown)        |
                                                                                                       
 
-![main floor by Marshall](/astral-sea/assets/images/bastion-1.jpg)
-![basement floor by Marshall](/astral-sea/assets/images/bastion-0.jpg)
+![main floor by Marshall](../assets/images/bastion-1.jpg)
+![basement floor by Marshall](../assets/images/bastion-0.jpg)
 ![second floor by Marshall](../assets/images/bastion-2.jpg)
