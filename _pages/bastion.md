@@ -17,6 +17,6 @@ excerpt: "What's happening at the Home Base"
                                                                                                       
 
 
-![](/assets/images/bastion-1.jpg)
+![test](/assets/images/bastion-1.jpg)
 ![](/assets/images/bastion-0.jpg)
 ![](/assets/images/bastion-2.jpg)
