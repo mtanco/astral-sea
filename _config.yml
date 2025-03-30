@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Jon Doe"
-  avatar : "/assets/images/ariel.png"
+  avatar : "/assets/images/not_hunter.png"
   bio    : "Casual pirate doing casual pirate things."
   links:
     - label: "Website"

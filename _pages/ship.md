@@ -5,7 +5,7 @@ excerpt: "What's happening on the ship."
 classes: wide
 author_profile: false
 sidebar:
-  - image: ../assets/images/random_ship.jpg
+  - image: /assets/images/random_ship.jpg
 ---
 
 Brigade | Sprinter | 250ft (5 squares)
