@@ -38,7 +38,7 @@ Ship Actions: 3 | Max Crew: 40 | Weapon slots: 8
 * Ship Action: **Repair** to put out a fire
 * Ship Action: **Repair** to heal the ship's HP for Sailing Die + Rank + Crew Morale
 * Ship Action: **Give 'er All She's Got** by removing the stressed condition until the ship's next turn if you pass a DC 15 check with d20 + (Arcana or Athletics) + Rank
-* [Torque](../players/ariel/) has Boatswain Rank 2 and a d8 Sailing Dice
+* [Torque](../players/torque/) has Boatswain Rank 2 and a d8 Sailing Dice
 
 ## Surgeon
 * Ship Action: **Patch Up** the crew for Sailing Die + Rank + Crew Morale
