@@ -3,10 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false
 title: Welcome to The Aetherial Expanse 🌌
 header:
   image: "/assets/images/header-background.png"
+author_profile: false
 sidebar:
     nav: "docs"
 ---

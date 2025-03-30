@@ -9,7 +9,7 @@ main:
     url: /about/
 
 docs:
-  - title: Meet the Players
+  - title: Meet the Crew
     children:
       - title: "🪓 Andujar"
         url: /players/andujar/

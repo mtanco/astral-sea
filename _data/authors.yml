@@ -1,0 +1,11 @@
+# /_data/authors.yml
+
+Ariel Starbinder:
+  name        : "🧜‍♀️🤘🗡️🔮🌊"
+  bio         : "Area merfolk-princess looks to generally improve the Astral Sea."
+  avatar      : "../assets/images/ariel.png"
+
+Dungeon Master:
+  name        : "Master of Ceremonies"
+  bio         : "Hell ya I'm an EMCEE"
+  avatar      : "../assets/images/not_hunter.png"
