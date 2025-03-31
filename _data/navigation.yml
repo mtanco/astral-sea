@@ -3,10 +3,10 @@ main:
     url: /bastion/
   - title: "The Neverbored"
     url: /ship/
+  - title: "NPCs"
+    url: /npcs/
   - title: "Pirate Tales"
     url: /history/
-  - title: "House Rules"
-    url: /about/
 
 docs:
   - title: Meet the Crew
