@@ -2,7 +2,6 @@
 permalink: /ship/
 title: "Welcome to the Neverbored"
 excerpt: "What's happening on the ship."
-# classes: wide
 toc: true
 toc_icon: "skull-crossbones"
 author_profile: false
