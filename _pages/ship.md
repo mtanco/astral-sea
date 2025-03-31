@@ -14,12 +14,26 @@ AC: 14 | HP: 60 | STR: +3 | DEX: -2
 
 Ship Actions: 3 | Max Crew: 40 | Weapon slots: 8
 
+|           | Cook | Navigator | Master Gunner | Boatswain | Surgeon | Sailing Die |
+|-----------|-----|-----------|---------------|-----------|---------|-------------|
+| Andjuar   |     |       |           |       |         |             |
+| Ariel     |     |       |           |       | 3       | d4          |
+| Avö       |     |       |           |       |         | d12         |
+| Felix     |     |       |           |       |         |             |
+| Noctus    |     |       |           |       |         |             |
+| Shadowpaw |     |       |           |       |         |             |
+| Torque    |     |       |           |       |         |             |
+| Zhang     |     |       |           |       |         |             |
+| Tiberius  |     |       |           |       |         |             |
+| Nadia     |     |       |           |       |         |             |
+
+# Warning, the rules below are outdated, oops! on my to do list
 
 ## Cook
 * Out of combat, roll a DC 15 constitution check with Proficiency or Animal Handling to start Crew Morale at +1 in next battle
 * Initiative: Crew Moral +1 if Sailing Die + Rank > 10, else -1
 * Ship Action: **Grog** distribution allows you to raise Crew Morale by +1 until the end of your next turn, role your Sailing Die.
-* [Shadowpaw](../players/shadowpaw/) has Cook rank 2 and a d? Sailing Die
+* [Shadowpaw](../players/shadowpaw/) has Cook rank 3 and a d? Sailing Die
 
 
 ## Navigator
@@ -44,7 +58,7 @@ Ship Actions: 3 | Max Crew: 40 | Weapon slots: 8
 * Ship Action: **Patch Up** the crew for Sailing Die + Rank + Crew Morale
 * If this total is more than 20, increase the Crew Morale by 1
 * Crew Moral goes down by 1 for every 5 injured crew members
-* [Ariel](../players/ariel/) has Surgen Rank 2 and a d4 Sailing Die
+* [Ariel](../players/ariel/) has Surgen Rank 3 and a d4 Sailing Die
 
 -----
 
