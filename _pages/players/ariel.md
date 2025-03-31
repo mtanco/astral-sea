@@ -19,6 +19,8 @@ title: Ariel Starbinder
 
 ### Meta
 * Sailing Die: d4
-* Crew: Surgeon Rank 3
+* Rank 3 Surgeon
+  * Can use the **Patch Up** ship action to get back crew members equal to SD + Rank + CM
+    * If this amount is 20 or higher, +1 to CM
 * Default captain
 * Bastion: Garden
