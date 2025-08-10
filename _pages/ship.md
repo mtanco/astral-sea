@@ -25,16 +25,15 @@ AC: 14 | HP: 60  | STR: +3 | DEX: -2
 |               Player               |  Ranked Skills   | Sailing Die |
 |:----------------------------------:|:----------------:|:-----------:|
 | [Shadowpaw](../players/shadowpaw/) |      Cook 3      |     d10     |
-|       [Avö](../players/avo/)       |   Navigator 3    |     d12     |
-|               Nadia                |   Navigator R?   |      ?      |
-|    [Noctus](../players/noctus/)    |   Navigator R?   |     d4      |
-|   [Andujar](../players/andujar/)   | Master Gunner R? |     d?      |
-|               Zhang                | Master Gunner R? |      ?      |
-|    [Noctus](../players/noctus/)    | Master Gunner R? |     d4      |
+|       [Avö](../players/avo/)       |   Navigator 3    |     d20     |
+|    [Noctus](../players/noctus/)    |   Navigator R1   |     d6      |
+|   [Andujar](../players/andujar/)   | Master Gunner R3 |     d10     |
+|    [Noctus](../players/noctus/)    | Master Gunner R2 |     d6      |
 |     [Ariel](../players/ariel/)     |    Surgeon 3     |     d4      |
-|     [Felix](../players/felix/)     |   Boatswain 3    |     d4      |
-|    [Torque](../players/torque/)    |   Boatswain 3    |     d8      |
-|              Tiberius              |    Skill? R?     |      ?      |
+|     [Felix](../players/felix/)     |   Boatswain 3    |     d6      |
+|    [Torque](../players/torque/)    |   Boatswain 3    |     d12     |
+|               Zhang                | Master Gunner R? |      ?      |
+|              Tiberius              |    Navigator R?  |      ?      |
 
 
 
@@ -44,6 +43,7 @@ AC: 14 | HP: 60  | STR: +3 | DEX: -2
   * 10 from Caldare
   * 11 from Velestraon
   * 1 from Shipwreck
+  * 1 from Kylo (Grog?)
 
 ## Rules of the Aether
 
