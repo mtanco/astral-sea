@@ -31,7 +31,7 @@ AC: 14 | HP: 60  | STR: +3 | DEX: -2
 |    [Noctus](../players/noctus/)    | Master Gunner R2 |     d8      |
 |     [Ariel](../players/ariel/)     |    Surgeon 3     |     d4      |
 |     [Felix](../players/felix/)     |   Boatswain 3    |     d6      |
-|    [Torque](../players/torque/)    |   Boatswain 3    |     d12     |
+|    [Torque](../players/torque/)    |   Boatswain 3    |     d20     |
 |               Zhang                | Master Gunner R? |      ?      |
 |              Tiberius              |   Navigator R?   |      ?      |
 
