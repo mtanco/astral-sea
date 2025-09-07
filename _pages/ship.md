@@ -25,15 +25,15 @@ AC: 14 | HP: 60  | STR: +3 | DEX: -2
 |               Player               |  Ranked Skills   | Sailing Die |
 |:----------------------------------:|:----------------:|:-----------:|
 | [Shadowpaw](../players/shadowpaw/) |      Cook 3      |     d10     |
-|       [Avö](../players/avo/)       |   Navigator 3    |     d20     |
+|       [Avö](../players/avo/)       |   Navigator 4    |     d6      |
 |    [Noctus](../players/noctus/)    |   Navigator R1   |     d6      |
 |   [Andujar](../players/andujar/)   | Master Gunner R3 |     d10     |
-|    [Noctus](../players/noctus/)    | Master Gunner R2 |     d6      |
+|    [Noctus](../players/noctus/)    | Master Gunner R2 |     d8      |
 |     [Ariel](../players/ariel/)     |    Surgeon 3     |     d4      |
 |     [Felix](../players/felix/)     |   Boatswain 3    |     d6      |
 |    [Torque](../players/torque/)    |   Boatswain 3    |     d12     |
 |               Zhang                | Master Gunner R? |      ?      |
-|              Tiberius              |    Navigator R?  |      ?      |
+|              Tiberius              |   Navigator R?   |      ?      |
 
 
 
